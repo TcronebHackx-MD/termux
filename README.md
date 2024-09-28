@@ -1,19 +1,19 @@
 ## Installation
 
-# pkg update
+pkg update
 
-# pkg install wget -y
+ pkg install wget -y
 
-# wget -O $PREFIX/bin/tbot https://raw.githubusercontent.com/T-crone-B /black-bot/main/tbot.sh
+ wget -O $PREFIX/bin/tbot https://raw.githubusercontent.com/T-crone-B /black-bot/main/tbot.sh
 
-# chmod +x $PREFIX/bin/tbot
+chmod +x $PREFIX/bin/tbot
 
 ## Launch Installer
 
-# tbot
+tbot
 
 ## JOIN MY TELEGRAM CHANNEL ##
-# "t.me/tcronebhackx" 
+ "t.me/tcronebhackx" 
 
 ##  HERE IS YOUR FULL VIDEO TUTORIAL 
 https://t.me/tcronebhackx/1485

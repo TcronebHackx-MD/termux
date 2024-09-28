@@ -13,7 +13,7 @@ chmod +x $PREFIX/bin/tbot
 tbot
 
 ## JOIN MY TELEGRAM CHANNEL ##
- "t.me/tcronebhackx" 
+ https://t.me/tcronebhackx
 
 ##  HERE IS YOUR FULL VIDEO TUTORIAL 
 https://t.me/tcronebhackx/1485

@@ -4,7 +4,7 @@ pkg update
 
  pkg install wget -y
 
- wget -O $PREFIX/bin/tbot https://raw.githubusercontent.com/T-crone-B /black-bot/main/tbot.sh
+ wget -O $PREFIX/bin/tbot https://raw.githubusercontent.com/T-crone-B /black-bot/main/black-bot.sh
 
 chmod +x $PREFIX/bin/tbot
 
